@@ -1,0 +1,3 @@
+# Default ignored files
+.env.local
+node_modules
